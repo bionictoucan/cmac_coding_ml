@@ -1,0 +1,15 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+10	274	1-Propanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OCCC	31.27	135.0	5.3586998	0.72905946	7.9892569	0.90250641	10	1	2	13	4	3	1	1	38.330002	3	0	1	3	1	1	1	0	20.23
+37	274	Cyclohexane	phenacetin	O=C(Nc1ccc(OCC)cc1)C	C1CCCCC1	31.27	135.0	0.0218	-1.6622275	0.0208	-1.6810327	10	1	2	13	4	3	1	1	38.330002	6	0	0	6	0	0	0	1	0.0
+55	274	Ethanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OCC	31.27	135.0	7.1486001	0.85422099	8.7518473	0.94209975	10	1	2	13	4	3	1	1	38.330002	2	0	1	2	0	1	1	0	20.23
+57	274	Ethyl Acetate	phenacetin	O=C(Nc1ccc(OCC)cc1)C	O=C(OCC)C	31.27	135.0	2.3378999	0.36882594	6.5020776	0.81305212	10	1	2	13	4	3	1	1	38.330002	4	0	2	5	2	2	0	0	26.299999
+67	274	Hexane	phenacetin	O=C(Nc1ccc(OCC)cc1)C	C(CCC)CC	31.27	135.0	0.00412	-2.3853338	0.0196	-1.708302	10	1	2	13	4	3	1	1	38.330002	6	0	0	5	3	0	0	0	0.0
+109	274	Water	phenacetin	O=C(Nc1ccc(OCC)cc1)C	O	31.27	135.0	0.078699999	-1.1040252	0.027799999	-1.5566791	10	1	2	13	4	3	1	1	38.330002	0	0	1	0	0	1	2	0	0.0
+8	274	1,4-Dioxane	phenacetin	O=C(Nc1ccc(OCC)cc1)C	O1CCOCC1	31.27	135.0	3.49	0.5428254	5.5486369	0.74418628	10	1	2	13	4	3	1	1	38.330002	4	0	2	6	0	2	0	1	18.459999
+9	274	1-Butanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OCCCC	31.27	135.0	6.9871998	0.84430319	6.3469658	0.80256617	10	1	2	13	4	3	1	1	38.330002	4	0	1	4	2	1	1	0	20.23
+26	274	Benzene	phenacetin	O=C(Nc1ccc(OCC)cc1)C	c1ccccc1	31.27	135.0	0.4483	-0.34843126	1.2394615	0.093233064	10	1	2	13	4	3	1	1	38.330002	6	0	0	6	0	0	0	1	0.0
+34	274	Chloroform	phenacetin	O=C(Nc1ccc(OCC)cc1)C	ClC(Cl)Cl	31.27	135.0	5.2131114	0.71709698	5.880702	0.76942921	10	1	2	13	4	3	1	1	38.330002	1	0	0	3	0	0	0	0	0.0
+72	274	Methanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OC	31.27	135.0	11.3327	1.0543334	19.390934	1.2875987	10	1	2	13	4	3	1	1	38.330002	1	0	1	1	0	1	1	0	20.23
+101	274	Tetrahydrofuran	phenacetin	O=C(Nc1ccc(OCC)cc1)C	O1CCCC1	31.27	135.0	8.1868	0.91311419	12.731357	1.1048747	10	1	2	13	4	3	1	1	38.330002	4	0	1	5	0	1	0	1	9.2299995
+110	274	1-Pentanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OCCCCC	31.27	135.0	4.0384002	0.60620934	4.6890321	0.67108321	10	1	2	13	4	3	1	1	38.330002	5	0	1	5	3	1	1	0	20.23
+127	274	1-Octanol	phenacetin	O=C(Nc1ccc(OCC)cc1)C	OCCCCCCCC	31.27	135.0	1.7708936	0.24819247	2.3345499	0.36820316	10	1	2	13	4	3	1	1	38.330002	8	0	1	8	6	1	1	0	20.23

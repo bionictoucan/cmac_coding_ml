@@ -1,0 +1,6 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+19	866	2-Propanol	sulfamethoxazole	S(=O)(=O)(Nc1noc(C)c1)c1ccc(N)cc1	OC(C)C	33.759998	167.5	1.1292634	0.052795239	0.40328988	-0.39438266	10	3	3	18	3	6	3	2	98.220001	3	0	1	3	0	1	1	0	20.23
+26	866	Benzene	sulfamethoxazole	S(=O)(=O)(Nc1noc(C)c1)c1ccc(N)cc1	c1ccccc1	33.759998	167.5	0.057599999	-1.239362	0.077399999	-1.1112317	10	3	3	18	3	6	3	2	98.220001	6	0	0	6	0	0	0	1	0.0
+34	866	Chloroform	sulfamethoxazole	S(=O)(=O)(Nc1noc(C)c1)c1ccc(N)cc1	ClC(Cl)Cl	33.759998	167.5	0.154479	-0.81113058	0.00493	-2.3069558	10	3	3	18	3	6	3	2	98.220001	1	0	0	3	0	0	0	0	0.0
+72	866	Methanol	sulfamethoxazole	S(=O)(=O)(Nc1noc(C)c1)c1ccc(N)cc1	OC	33.759998	167.5	11.399095	1.0568703	5.8099527	0.76417261	10	3	3	18	3	6	3	2	98.220001	1	0	1	1	0	1	1	0	20.23
+127	866	1-Octanol	sulfamethoxazole	S(=O)(=O)(Nc1noc(C)c1)c1ccc(N)cc1	OCCCCCCCC	33.759998	167.5	0.18699995	-0.72815853	0.00703	-2.1528292	10	3	3	18	3	6	3	2	98.220001	8	0	1	8	6	1	1	0	20.23

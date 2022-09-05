@@ -1,0 +1,9 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+19	885	2-Propanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OC(C)C	49.799999	472.89999	0.15575261	-0.80756468	0.00296	-2.5286951	14	4	3	22	5	7	4	2	105.51	3	0	1	3	0	1	1	0	20.23
+23	885	Acetone	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	O=C(C)C	49.799999	472.89999	0.44507647	-0.35156536	0.00207	-2.6848612	14	4	3	22	5	7	4	2	105.51	3	0	1	3	0	1	0	0	17.07
+55	885	Ethanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OCC	49.799999	472.89999	0.42932415	-0.36721468	0.00626	-2.2037456	14	4	3	22	5	7	4	2	105.51	2	0	1	2	0	1	1	0	20.23
+9	885	1-Butanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OCCCC	49.799999	472.89999	0.24883409	-0.60409009	0.00169	-2.7731347	14	4	3	22	5	7	4	2	105.51	4	0	1	4	2	1	1	0	20.23
+12	885	2-Butanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OC(CC)C	49.799999	472.89999	0.22036421	-0.65685892	0.00144	-2.8413301	14	4	3	22	5	7	4	2	105.51	4	0	1	4	1	1	1	0	20.23
+72	885	Methanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OC	49.799999	472.89999	1.5683777	0.19545066	0.018999999	-1.7218274	14	4	3	22	5	7	4	2	105.51	1	0	1	1	0	1	1	0	20.23
+101	885	Tetrahydrofuran	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	O1CCCC1	49.799999	472.89999	0.47202995	-0.32603043	0.000353	-3.4522252	14	4	3	22	5	7	4	2	105.51	4	0	1	5	0	1	0	1	9.2299995
+110	885	1-Pentanol	trimethoprim	O(C)c1c(OC)cc(Cc2c(N)nc(N)nc2)cc1OC	OCCCCC	49.799999	472.89999	0.22318825	-0.65132868	0.00105	-2.9775674	14	4	3	22	5	7	4	2	105.51	5	0	1	5	3	1	1	0	20.23

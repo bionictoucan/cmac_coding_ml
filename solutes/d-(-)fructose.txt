@@ -1,0 +1,4 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+55	250	Ethanol	d-(-)fructose	OC[C@@H]1[C@@H](O)[C@H](O)[C@@](O)(CO)O1	OCC	36.060001	104.0	1.7237999	0.23648688	6.3482604	0.80265474	6	0	6	12	2	6	5	1	110.38	2	0	1	2	0	1	1	0	20.23
+109	250	Water	d-(-)fructose	OC[C@@H]1[C@@H](O)[C@H](O)[C@@](O)(CO)O1	O	36.060001	104.0	293.7709	2.4680088	46.862782	1.6708281	6	0	6	12	2	6	5	1	110.38	0	0	1	0	0	1	2	0	0.0
+72	250	Methanol	d-(-)fructose	OC[C@@H]1[C@@H](O)[C@H](O)[C@@](O)(CO)O1	OC	36.060001	104.0	13.4464	1.1286061	28.963882	1.4618567	6	0	6	12	2	6	5	1	110.38	1	0	1	1	0	1	1	0	20.23

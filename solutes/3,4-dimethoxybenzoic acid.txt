@@ -1,0 +1,9 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+10	196	1-Propanol	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	OCCC	29.620001	180.0	2.0139899	0.3040573	4.580472	0.66091025	9	0	4	13	3	4	1	1	55.759998	3	0	1	3	1	1	1	0	20.23
+19	196	2-Propanol	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	OC(C)C	29.620001	180.0	1.92187	0.28372401	5.678843	0.75425982	9	0	4	13	3	4	1	1	55.759998	3	0	1	3	0	1	1	0	20.23
+55	196	Ethanol	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	OCC	29.620001	180.0	2.94802	0.46953043	7.4155655	0.87014431	9	0	4	13	3	4	1	1	55.759998	2	0	1	2	0	1	1	0	20.23
+57	196	Ethyl Acetate	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	O=C(OCC)C	29.620001	180.0	1.4995	0.17594647	12.675427	1.1029626	9	0	4	13	3	4	1	1	55.759998	4	0	2	5	2	2	0	0	26.299999
+9	196	1-Butanol	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	OCCCC	29.620001	179.97	1.4089299	0.14888942	3.2698839	0.51453233	9	0	4	13	3	4	1	1	55.759998	4	0	1	4	2	1	1	0	20.23
+111	196	2-Methyl-1-Propanol	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	OCC(C)C	29.620001	179.97	1.0118099	0.005098967	3.0280702	0.48116595	9	0	4	13	3	4	1	1	55.759998	4	0	1	4	1	1	1	0	20.23
+73	196	Methyl Acetate	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	O=C(OC)C	29.620001	180.0	1.98318	0.29736215	13.566544	1.1324692	9	0	4	13	3	4	1	1	55.759998	3	0	2	4	1	2	0	0	26.299999
+77	196	2-Butanone	3,4-dimethoxybenzoic acid	O=C(O)c1cc(OC)c(OC)cc1	O=C(CC)C	29.620001	180.0	3.0685401	0.4869318	19.394064	1.2876688	9	0	4	13	3	4	1	1	55.759998	4	0	1	4	1	1	0	0	17.07

@@ -1,0 +1,4 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+9	319	1-Butanol	diphenylamine	N(c1ccccc1)c1ccccc1	OCCCC	19.5	325.60001	43.039398	1.6338662	4.2878265	0.6322372	12	1	0	14	2	1	1	2	12.03	4	0	1	4	2	1	1	0	20.23
+12	319	2-Butanol	diphenylamine	N(c1ccccc1)c1ccccc1	OC(CC)C	19.5	325.60001	41.6423	1.6195347	4.1654048	0.61965722	12	1	0	14	2	1	1	2	12.03	4	0	1	4	1	1	1	0	20.23
+68	319	3-Methyl-1-Butanol	diphenylamine	N(c1ccccc1)c1ccccc1	OCCC(C)C	19.5	325.60001	28.781	1.4591058	3.3073592	0.51948136	12	1	0	14	2	1	1	2	12.03	5	0	1	5	2	1	1	0	20.23

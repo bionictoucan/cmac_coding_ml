@@ -1,0 +1,4 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+109	919	Water	3-pyridinecarboxylic acid	O=C(O)c1cnccc1	O	13.01	236.0	1.66187	0.22059704	0.65633261	-0.18287599	6	1	2	9	1	3	1	1	50.189999	0	0	1	0	0	1	2	0	0.0
+24	919	Acetonitrile	3-pyridinecarboxylic acid	O=C(O)c1cnccc1	N#CC	13.01	236.0	0.055500001	-1.2557852	34.09761	1.5327239	6	1	2	9	1	3	1	1	50.189999	2	1	0	2	0	1	0	0	23.790001
+46	919	Diethylether	3-pyridinecarboxylic acid	O=C(O)c1cnccc1	O(CC)CC	13.01	236.0	0.13518	-0.86908758	4.7252879	0.67442828	6	1	2	9	1	3	1	1	50.189999	4	0	1	4	2	1	0	0	9.2299995

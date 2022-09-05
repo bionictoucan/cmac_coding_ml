@@ -1,0 +1,11 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+19	315	2-Propanol	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	OC(C)C	30.9	216.0	34.447899	1.5371628	30.781963	1.4882963	7	0	3	10	1	3	2	1	57.529999	3	0	1	3	0	1	1	0	20.23
+55	315	Ethanol	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	OCC	30.9	216.0	40.060299	1.6027142	45.004196	1.653253	7	0	3	10	1	3	2	1	57.529999	2	0	1	2	0	1	1	0	20.23
+57	315	Ethyl Acetate	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	O=C(OCC)C	30.9	216.0	12.4719	1.0959326	31.705175	1.5011301	7	0	3	10	1	3	2	1	57.529999	4	0	2	5	2	2	0	0	26.299999
+67	315	Hexane	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	C(CCC)CC	32.5	216.2	0.000497	-3.303766	0.000147	-3.8326826	7	0	3	10	1	3	2	1	57.529999	6	0	0	5	3	0	0	0	0.0
+109	315	Water	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	O	30.9	216.0	0.74400002	-0.12842706	1.9759014	0.29576525	7	0	3	10	1	3	2	1	57.529999	0	0	1	0	0	1	2	0	0.0
+34	315	Chloroform	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	ClC(Cl)Cl	30.9	216.0	0.019099999	-1.7189666	0.00378	-2.4229519	7	0	3	10	1	3	2	1	57.529999	1	0	0	3	0	0	0	0	0.0
+72	315	Methanol	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	OC	30.9	216.0	54.208401	1.7340666	64.499069	1.8095534	7	0	3	10	1	3	2	1	57.529999	1	0	1	1	0	1	1	0	20.23
+127	315	1-Octanol	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	OCCCCCCCC	32.5	216.2	17.122473	1.2335665	6.3673224	0.80395687	7	0	3	10	1	3	2	1	57.529999	8	0	1	8	6	1	1	0	20.23
+78	315	Methyl Isobutyl Ketone	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	O=C(CC(C)C)C	30.9	216.0	15.2063	1.1820235	32.808342	1.5159843	7	0	3	10	1	3	2	1	57.529999	6	0	1	6	2	1	0	0	17.07
+102	315	Toluene	4-Hydroxybenzoic acid	O=C(O)c1ccc(O)cc1	Cc1ccccc1	30.9	216.0	0.16509999	-0.78225291	0.00537	-2.2703259	7	0	3	10	1	3	2	1	57.529999	7	0	0	7	0	0	0	1	0.0

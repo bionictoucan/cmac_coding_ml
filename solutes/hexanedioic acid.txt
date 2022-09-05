@@ -1,0 +1,9 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+19	302	2-Propanol	hexanedioic acid	O=C(O)CCCCC(=O)O	OC(C)C	34.849998	153.39999	7.3003001	0.86334074	6.0633941	0.7827158	6	0	4	9	5	4	2	0	74.599998	3	0	1	3	0	1	1	0	20.23
+23	302	Acetone	hexanedioic acid	O=C(O)CCCCC(=O)O	O=C(C)C	34.849998	153.39999	4.2448001	0.62785721	21.389536	1.3302014	6	0	4	9	5	4	2	0	74.599998	3	0	1	3	0	1	0	0	17.07
+57	302	Ethyl Acetate	hexanedioic acid	O=C(O)CCCCC(=O)O	O=C(OCC)C	34.849998	153.39999	0.8233	-0.084441885	5.8274713	0.76548016	6	0	4	9	5	4	2	0	74.599998	4	0	2	5	2	2	0	0	26.299999
+109	302	Water	hexanedioic acid	O=C(O)CCCCC(=O)O	O	34.849998	153.39999	2.3701	0.37476668	2.0130031	0.30384448	6	0	4	9	5	4	2	0	74.599998	0	0	1	0	0	1	2	0	0.0
+9	302	1-Butanol	hexanedioic acid	O=C(O)CCCCC(=O)O	OCCCC	34.849998	153.39999	5.9938998	0.77770948	2.7192888	0.43445534	6	0	4	9	5	4	2	0	74.599998	4	0	1	4	2	1	1	0	20.23
+26	302	Benzene	hexanedioic acid	O=C(O)CCCCC(=O)O	c1ccccc1	34.849998	153.39999	0.02	-1.69897	0.00525	-2.2800658	6	0	4	9	5	4	2	0	74.599998	6	0	0	6	0	0	0	1	0.0
+34	302	Chloroform	hexanedioic acid	O=C(O)CCCCC(=O)O	ClC(Cl)Cl	34.849998	153.39999	0.25650001	-0.59091264	0.00266	-2.5752702	6	0	4	9	5	4	2	0	74.599998	1	0	0	3	0	0	0	0	0.0
+102	302	Toluene	hexanedioic acid	O=C(O)CCCCC(=O)O	Cc1ccccc1	34.849998	153.39999	0.0072	-2.1426675	0.00156	-2.8077059	6	0	4	9	5	4	2	0	74.599998	7	0	0	7	0	0	0	1	0.0

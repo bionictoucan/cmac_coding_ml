@@ -1,0 +1,5 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+10	1130	1-Propanol	quercetin	O=C1C(O)=C(c2cc(O)c(O)cc2)Oc2c1c(O)cc(O)c2	OCCC	32.900002	318.0	2.6694	0.42641366	53.410667	1.727628	15	0	7	24	1	7	5	3	127.45	3	0	1	3	1	1	1	0	20.23
+19	1130	2-Propanol	quercetin	O=C1C(O)=C(c2cc(O)c(O)cc2)Oc2c1c(O)cc(O)c2	OC(C)C	32.900002	318.0	2.7749	0.44324735	45.910522	1.6619122	15	0	7	24	1	7	5	3	127.45	3	0	1	3	0	1	1	0	20.23
+55	1130	Ethanol	quercetin	O=C1C(O)=C(c2cc(O)c(O)cc2)Oc2c1c(O)cc(O)c2	OCC	32.900002	318.0	3.3058	0.51927656	73.36161	1.8654689	15	0	7	24	1	7	5	3	127.45	2	0	1	2	0	1	1	0	20.23
+24	1130	Acetonitrile	quercetin	O=C1C(O)=C(c2cc(O)c(O)cc2)Oc2c1c(O)cc(O)c2	N#CC	32.900002	318.0	1.1122	0.046182889	55.101757	1.7411654	15	0	7	24	1	7	5	3	127.45	2	1	0	2	0	1	0	0	23.790001

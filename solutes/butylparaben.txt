@@ -1,0 +1,6 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+55	246	Ethanol	butylparaben	O=C(OCCCC)c1ccc(O)cc1	OCC	24.57	67.57	237.15308	2.3750288	318.18188	2.5026755	11	0	3	14	5	3	1	1	46.529999	2	0	1	2	0	1	1	0	20.23
+9	246	1-Butanol	butylparaben	O=C(OCCCC)c1ccc(O)cc1	OCCCC	24.57	67.57	149.97166	2.1760092	213.55606	2.3295119	11	0	3	14	5	3	1	1	46.529999	4	0	1	4	2	1	1	0	20.23
+72	246	Methanol	butylparaben	O=C(OCCCC)c1ccc(O)cc1	OC	24.57	67.57	306.73492	2.4867632	492.83176	2.6926987	11	0	3	14	5	3	1	1	46.529999	1	0	1	1	0	1	1	0	20.23
+125	246	1-Hexanol	butylparaben	O=C(OCCCC)c1ccc(O)cc1	OCCCCCC	24.57	67.57	111.16373	2.045963	154.77217	2.189693	11	0	3	14	5	3	1	1	46.529999	6	0	1	6	4	1	1	0	20.23
+127	246	1-Octanol	butylparaben	O=C(OCCCC)c1ccc(O)cc1	OCCCCCCCC	24.57	67.57	73.791702	1.8680075	120.39929	2.0806239	11	0	3	14	5	3	1	1	46.529999	8	0	1	8	6	1	1	0	20.23

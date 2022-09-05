@@ -1,0 +1,10 @@
+solvent_chem_id	solute_chem_id	solvent_name	solute_name	solute_smiles	solvent_smiles	DHFUS_kj_mol	Tmelt_C	solubility_g_100g	solubility_g_100g_log	cosmo_solubility_g_100g	cosmo_solubility_g_100g_log	solute_a_nC	solute_a_nN	solute_a_nO	solute_b_heavy	solute_b_rotN	solute_lip_acc	solute_lip_don	solute_rings	solute_TPSA	solvent_a_nC	solvent_a_nN	solvent_a_nO	solvent_b_heavy	solvent_b_rotN	solvent_lip_acc	solvent_lip_don	solvent_rings	solvent_TPSA
+19	265	2-Propanol	metacetamol	O=C(Nc1cc(O)ccc1)C	OC(C)C	28.799999	146.8	19.48	1.2895889	9.9543972	0.99801493	8	1	2	11	2	3	2	1	49.330002	3	0	1	3	0	1	1	0	20.23
+66	265	Heptane	metacetamol	O=C(Nc1cc(O)ccc1)C	C(CCC)CCC	28.799999	146.8	0.029999999	-1.5228788	0.000185	-3.7328284	8	1	2	11	2	3	2	1	49.330002	7	0	0	6	4	0	0	0	0.0
+24	265	Acetonitrile	metacetamol	O=C(Nc1cc(O)ccc1)C	N#CC	28.799999	146.8	8.0500002	0.90579587	14.785822	1.1698455	8	1	2	11	2	3	2	1	49.330002	2	1	0	2	0	1	0	0	23.790001
+25	265	Anisole	metacetamol	O=C(Nc1cc(O)ccc1)C	O(C)c1ccccc1	28.799999	146.8	0.23999999	-0.61978877	0.050900001	-1.2929587	8	1	2	11	2	3	2	1	49.330002	7	0	1	8	1	1	0	1	9.2299995
+70	265	Isopropyl Acetate	metacetamol	O=C(Nc1cc(O)ccc1)C	O=C(OC(C)C)C	28.799999	146.8	2.4549999	0.39005148	7.2345476	0.85941136	8	1	2	11	2	3	2	1	49.330002	5	0	2	6	2	2	0	0	26.299999
+78	265	Methyl Isobutyl Ketone	metacetamol	O=C(Nc1cc(O)ccc1)C	O=C(CC(C)C)C	28.799999	146.8	6.9400001	0.8413595	9.2803259	0.96756321	8	1	2	11	2	3	2	1	49.330002	6	0	1	6	2	1	0	0	17.07
+102	265	Toluene	metacetamol	O=C(Nc1cc(O)ccc1)C	Cc1ccccc1	28.799999	146.8	0.11	-0.95860732	0.0102	-1.9899524	8	1	2	11	2	3	2	1	49.330002	7	0	0	7	0	0	0	1	0.0
+147	265	Dodecane	metacetamol	O=C(Nc1cc(O)ccc1)C	C(CCCCCC)CCCCC	28.799999	146.8	0.115	-0.93930215	0.000115	-3.9393022	8	1	2	11	2	3	2	1	49.330002	12	0	0	11	9	0	0	0	0.0
+100	265	2-Methoxy-2-Methylpropane	metacetamol	O=C(Nc1cc(O)ccc1)C	O(C(C)(C)C)C	28.799999	146.8	0.85000002	-0.070581071	0.41055465	-0.38662902	8	1	2	11	2	3	2	1	49.330002	5	0	1	5	1	1	0	0	9.2299995
